@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To Shooter Arena Lets shhot</h1>
+<h1>Welcome To Shooter Arena Lets shoot</h1>
 </body>
 <body style="color:red;">
  <div class="container">
